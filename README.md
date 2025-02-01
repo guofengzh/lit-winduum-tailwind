@@ -1,3 +1,3 @@
 ## Intro
 
-Upgrade Winduum vite-lit example to TailwindCSS 4.
+Upgrade Winduum [vite-lit example](https://github.com/winduum/winduum/tree/main/examples/vite-lit) to TailwindCSS 4.
